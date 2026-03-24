@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Im currently working on:
+### Biggerbrain AI(MoLaMaRT architecture)
+I also have a custom C++ game engine, but that is currently in a state of indefinite paused development.
+
 <!--
 **Skull18500/Skull18500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
